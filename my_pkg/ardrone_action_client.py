@@ -1,6 +1,5 @@
 #! /usr/bin/env python
 
-from http import client
 import rospy
 import time
 import actionlib
